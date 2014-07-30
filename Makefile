@@ -6,8 +6,6 @@ SOURCES := \
 RESULT := yo
 
 OCAMLFLAGS := -g
-PACKS := sha
-LIBS := unix str
 ANNOTATE := yes
 CC := gcc
 
